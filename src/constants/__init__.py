@@ -34,3 +34,7 @@ TRANSFORM_TRAIN_DIR_KEY = "train.csv"
 TRANSFORM_TEST_DIR_KEY = "test.csv"
 #os.path.join(ROOT_DIR, ARTIFACT_DIR_KEY, DATA_TRANSFORMATION_ARTIFACT,
        #                                  DATA_TRANSFORM_DIR)
+
+
+MODEL_TRAINER_KEY = "model_trainer"
+MODEL_OBJECT = 'model.pkl'
